@@ -22,6 +22,7 @@ public class ConnectionEst {
 		
 		 WebElement nxt=driver.findElement(By.id("identifierNext"));
 		 nxt.click();
+		 System.out.println("Git Check");
 		
 		Thread.sleep(5000);
 		
